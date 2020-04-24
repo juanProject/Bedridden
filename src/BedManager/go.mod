@@ -1,3 +1,3 @@
-module .\bedManger.go
+module .\bedManager.go
 
 go 1.12
